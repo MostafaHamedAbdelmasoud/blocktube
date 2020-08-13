@@ -1,7 +1,7 @@
 {
   "name": "BlockTube Edited Version",
   "version": "1",
-  "description": "YouTube™ content blocker for all subwindows",
+  "description": "YouTube™ content blocker for all subwindows in youtube",
   "manifest_version": 2,
   "content_scripts": [
     {
