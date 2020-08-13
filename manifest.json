@@ -1,7 +1,7 @@
 {
-  "name": "BlockTube",
+  "name": "BlockTube Edited Version",
   "version": "1",
-  "description": "YouTube™ content blocker",
+  "description": "YouTube™ content blocker for all subwindows",
   "manifest_version": 2,
   "content_scripts": [
     {
@@ -35,5 +35,5 @@
     "48": "assets/icons/48.png",
     "128": "assets/icons/128.png"
   },
-  "homepage_url": "https://github.com/amitbl/blocktube"
+  "homepage_url": "https://github.com/MostafaHamedAbdelmasoud/blocktube"
 }
